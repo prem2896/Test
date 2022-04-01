@@ -10,6 +10,8 @@ public class Demo {
 		System.out.println("Create new branch");
 		
 		System.out.println("Second Branch");
+		
+		System.out.println("Conflict Handling");
 	}
 
 }
